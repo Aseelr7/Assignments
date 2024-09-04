@@ -1,7 +1,8 @@
 Question 7: Using Increment in an Expression
 
 Task:
-Given int p = 5; int result = p++ + 2;, evaluate the value of result and p. Print both values.
+Given int p = 5; int result = p++ + 2;
+, evaluate the value of result and p. Print both values.
 
 Expected Output:
 
